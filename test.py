@@ -1,1 +1,1 @@
-print(gabbaarr is backkk)
+printgabbaarr is backkk)
